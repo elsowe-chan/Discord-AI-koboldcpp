@@ -2,6 +2,17 @@
 
 Discord AI Koboldcpp is a simple puthon script that catch a discord message and then send it to Koboldcpp API to generate a respond and then send the respond back to the discord channel where the messagec come from.
 
+# Requirements
+python 3.10
+\
+os, requests, discord
+```
+pip install requests
+```
+```
+pip install discord
+```
+koboldcpp : https://github.com/LostRuins/koboldcpp
 # test.txt
 this file is where you write the guideline of your AIBOT.
 \
